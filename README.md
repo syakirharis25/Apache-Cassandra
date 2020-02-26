@@ -33,6 +33,7 @@ Facebook official website : https://www.facebook.com <br />
 **_Apache Cassandra related articles_**
 A side-by-side comparison of MongoDB vs Cassandra databases by TheServerSide : https://www.theserverside.com/tip/A-side-by-side-comparison-of-MongoDB-and-Cassandra-databases <br />
 We secured thousands of Cassandra clients to keep Monzo's data safe by Monzo : https://monzo.com/blog/we-secured-thousands-of-cassandra-clients-to-keep-monzos-data-safe <br />
+MongoDB Vs Cassandra: Which One to Pick? by naukri learning : https://learning.naukri.com/articles/mongodb-vs-cassandra/ <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
