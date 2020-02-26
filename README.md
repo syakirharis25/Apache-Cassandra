@@ -24,8 +24,11 @@ Facebook developers named their database after the Trojan mythological prophet C
 <a name="references"></a>
 ## 2. Official references websites. <br />
 Cassandra official website : https://cassandra.apache.org <br />
-Facebook official website : https://www.facebook.com <br />
 Apache official website : https://www.apache.org <br />
+
+**_Apache Cassandra companies_**
+Monzo official website : https://monzo.com/
+Facebook official website : https://www.facebook.com <br />
 
 **_Apache Cassandra related articles_**
 A side-by-side comparison of MongoDB vs Cassandra databases by TheServerSide : https://www.theserverside.com/tip/A-side-by-side-comparison-of-MongoDB-and-Cassandra-databases <br />
