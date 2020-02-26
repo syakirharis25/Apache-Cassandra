@@ -29,6 +29,7 @@ Apache official website : https://www.apache.org <br />
 
 **_Apache Cassandra related articles_**
 A side-by-side comparison of MongoDB vs Cassandra databases by TheServerSide : https://www.theserverside.com/tip/A-side-by-side-comparison-of-MongoDB-and-Cassandra-databases <br />
+We secured thousands of Cassandra clients to keep Monzo's data safe by Monzo : https://monzo.com/blog/we-secured-thousands-of-cassandra-clients-to-keep-monzos-data-safe <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
