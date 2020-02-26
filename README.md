@@ -27,6 +27,9 @@ Cassandra official website : https://cassandra.apache.org <br />
 Facebook official website : https://www.facebook.com <br />
 Apache official website : https://www.apache.org <br />
 
+**_Apache Cassandra related articles_**
+A side-by-side comparison of MongoDB vs Cassandra databases by TheServerSide : https://www.theserverside.com/tip/A-side-by-side-comparison-of-MongoDB-and-Cassandra-databases <br />
+
 <a name="github"></a>
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
