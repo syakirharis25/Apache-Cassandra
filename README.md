@@ -22,15 +22,15 @@ The Apache Incubator project serves on the one hand as a temporary container pro
 Facebook developers named their database after the Trojan mythological prophet Cassandra, with classical allusions to a curse on an oracle.
 
 <a name="references"></a>
-## 2. Official references websites. <br />
+## 2. Official references websites.
 Cassandra official website : https://cassandra.apache.org <br />
 Apache official website : https://www.apache.org <br />
 
-**_Apache Cassandra companies_**
+**_Apache Cassandra companies_** <br />
 Monzo official website : https://monzo.com/
 Facebook official website : https://www.facebook.com <br />
 
-**_Apache Cassandra related articles_**
+**_Apache Cassandra related articles_** <br />
 A side-by-side comparison of MongoDB vs Cassandra databases by TheServerSide : https://www.theserverside.com/tip/A-side-by-side-comparison-of-MongoDB-and-Cassandra-databases <br />
 We secured thousands of Cassandra clients to keep Monzo's data safe by Monzo : https://monzo.com/blog/we-secured-thousands-of-cassandra-clients-to-keep-monzos-data-safe <br />
 MongoDB Vs Cassandra: Which One to Pick? by naukri learning : https://learning.naukri.com/articles/mongodb-vs-cassandra/ <br />
